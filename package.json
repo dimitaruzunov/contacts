@@ -1,0 +1,19 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "description": "command-line contacts app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimitarUzunov/contacts.git"
+  },
+  "author": "Dimitar Uzunov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimitarUzunov/contacts/issues"
+  },
+  "homepage": "https://github.com/DimitarUzunov/contacts#readme"
+}
